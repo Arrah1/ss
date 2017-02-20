@@ -1,0 +1,36 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    background-color:#737373;
+    font-size:87.5%;
+    font-family:Arial;
+}
+.body{
+    margin : 0 auto;
+    width:80%;
+    clear:both;
+}
+
+.content{
+    background-image: url("img/2.jpg");
+    width:60%;
+    height:480px;
+    background-repeat: no-repeat;
+    color:black;
+    text-align: center;
+    margin:0 auto;
+    padding:5px 8px;
+    line-height: 32px;
+    font-family: 'Comic Sans MS';
+}
+
+
+.footer{
+    background-color: #333;
+    height:20px;
+    margin:0 auto;
+    padding:2px 3px;
+    color:white;
+}
